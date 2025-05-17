@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>1330276</id>
+      <name>Taken images Tala</name>
+      <size>144</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-04-17 21:36:45.076738+00:00</created>
+      <updated>2025-04-17 23:20:55.288412+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>143</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>2367207</id>
+          <start>0</start>
+          <stop>143</stop>
+          <url>https://app.cvat.ai/api/jobs/2364892</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>physio</username>
+        <email>physio092@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>body-keypoints</name>
+          <color>#886f30</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2025-04-20 13:50:29.855363+00:00</dumped>
+  </meta>
+  <image id="0" name="imagesTakenC(1).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1521.99,764.82;1521.99,764.82;1721.59,1044.27;1801.43,1350.33;1734.90,1729.60;1728.24,1849.34;1269.15,1862.64" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1135.42" ytl="485.37" xbr="1874.62" ybr="3353.02" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="imagesTakenC(10).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1641.75,957.77;1641.75,957.77;1329.03,1077.53;1149.39,1350.33;1076.20,1742.90;1056.24,1836.03;1621.79,1929.18" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="989.04" ytl="704.94" xbr="1934.50" ybr="3313.10" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="imagesTakenC(100).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1188.65" ytl="665.02" xbr="1814.74" ybr="3412.90" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1568.56,951.12;1568.56,951.12;1362.30,1170.68;1255.85,1456.78;1275.81,1809.41;1275.80,1929.20;1694.98,1929.18" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="imagesTakenC(101).JPG" width="1575" height="2100">
+    <points label="body-keypoints" source="manual" occluded="0" points="538.02,474.60;538.02,474.60;669.70,568.17;784.06,685.99;777.13,897.38;787.53,938.96;569.21,997.87" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="412.92" ytl="363.71" xbr="846.44" ybr="1947.38" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="imagesTakenC(102).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1209.27,718.25;1209.27,718.25;1062.90,838.01;856.64,1183.99;929.83,1736.23;929.83,1822.72;1435.49,1816.07" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="809.40" ytl="319.04" xbr="1588.52" ybr="3353.02" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="imagesTakenC(103).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1142.07" ytl="645.06" xbr="1854.66" ybr="3645.77" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1395.57,931.16;1395.57,931.16;1668.36,1183.99;1761.51,1483.39;1668.36,1822.72;1688.30,1962.40;1242.54,2048.94" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="imagesTakenC(104).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1162.03" ytl="711.59" xbr="1801.43" ybr="3585.89" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1488.72,957.77;1488.72,957.77;1282.46,1250.52;1242.54,1556.58;1342.34,1882.60;1335.69,1942.48;1754.86,2002.37" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="imagesTakenC(105).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1455.45,1183.99;1455.45,1183.99;1329.03,1443.47;1249.19,1722.92;1335.69,2075.55;1329.03,2148.74;1694.98,2208.62" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1175.30" ytl="944.46" xbr="1801.43" ybr="3699.00" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="imagesTakenC(106).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1135.42" ytl="465.41" xbr="1821.39" ybr="3512.70" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1541.95,718.25;1541.95,718.25;1675.01,1017.65;1754.86,1283.79;1675.01,1669.69;1681.70,1762.80;1302.42,1809.41" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="imagesTakenC(107).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1422.18,611.79;1422.18,611.79;1322.38,917.85;1195.97,1310.40;1302.42,1789.45;1302.42,1862.64;1741.55,1869.30" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1108.80" ytl="305.73" xbr="1907.89" ybr="3738.92" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="imagesTakenC(108).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1255.85,1011.00;1255.85,1011.00;1475.41,1064.23;1714.94,1257.18;1781.47,1676.35;1814.74,1809.41;1408.88,1895.91" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1035.62" ytl="784.78" xbr="1867.97" ybr="3186.68" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="imagesTakenC(109).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1148.73" ytl="1044.27" xbr="1701.63" ybr="3838.72" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1388.92,1323.71;1388.92,1323.71;1289.10,1516.70;1189.30,1782.80;1275.81,2188.66;1249.19,2261.85;1595.17,2288.46" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="imagesTakenC(11).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1428.84,1024.31;1428.84,1024.31;1255.85,1317.06;1182.66,1596.50;1242.54,1989.06;1242.54,2022.33;1781.47,2048.94" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1135.42" ytl="744.86" xbr="1887.93" ybr="3559.28" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="imagesTakenC(110).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1495.37,884.58;1495.37,884.58;1615.13,1084.19;1761.51,1350.33;1754.86,1836.03;1761.51,1929.18;1408.88,1975.75" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1201.95" ytl="598.48" xbr="1834.70" ybr="3486.09" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="imagesTakenC(111).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1015.66" ytl="711.59" xbr="1801.43" ybr="3705.65" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1568.56,1017.65;1568.56,1017.65;1648.40,1243.87;1734.90,1503.36;1648.40,2015.67;1661.71,2095.51;1315.73,2128.78" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="imagesTakenC(112).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1395.57,844.66;1395.57,844.66;1275.81,1064.23;1202.62,1363.63;1302.42,1749.53;1295.77,1822.72;1708.28,1862.64" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1142.07" ytl="531.95" xbr="1854.66" ybr="3539.32" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="imagesTakenC(113).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1168.69" ytl="724.90" xbr="1828.04" ybr="3452.82" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1395.57,1004.35;1395.57,1004.35;1528.64,1203.95;1655.05,1490.05;1601.83,1942.48;1621.79,2009.02;1275.81,2022.33" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="imagesTakenC(114).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1342.34,1084.19;1342.34,1084.19;1495.37,1310.40;1601.83,1569.89;1568.56,2015.67;1581.90,2115.50;1222.58,2142.09" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1135.42" ytl="818.05" xbr="1821.39" ybr="3572.58" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="imagesTakenC(115).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1442.14,1283.79;1442.14,1283.79;1595.17,1410.21;1728.24,1702.96;1675.01,2048.94;1688.32,2095.51;1375.61,2102.17" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1241.87" ytl="1037.61" xbr="1774.82" ybr="3506.05" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="imagesTakenC(116).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1201.95" ytl="618.44" xbr="1841.35" ybr="3752.23" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1541.95,931.16;1541.95,931.16;1382.26,1217.26;1262.50,1543.30;1342.34,1969.10;1342.34,2022.33;1781.47,2088.86" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="imagesTakenC(117).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1568.56,851.32;1568.56,851.32;1348.99,977.73;1195.97,1277.14;1249.19,1596.50;1235.89,1669.69;1541.90,1722.90" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1128.77" ytl="591.83" xbr="1801.43" ybr="2967.12" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="imagesTakenC(118).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1135.42" ytl="858.00" xbr="1728.24" ybr="3645.77" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1435.49,1150.72;1435.49,1150.72;1555.25,1383.59;1635.09,1649.73;1555.25,1995.71;1568.60,2095.50;1222.58,2142.09" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="imagesTakenC(119).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1675.01,997.69;1675.01,997.69;1408.88,1117.45;1235.89,1410.21;1229.20,1836.00;1215.93,1962.44;1675.01,1995.71" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1162.03" ytl="698.29" xbr="1941.15" ybr="3406.25" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="imagesTakenC(12).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1209.27,1117.45;1209.27,1117.45;1548.60,1210.60;1714.94,1456.78;1808.08,1875.95;1841.35,2002.37;1348.99,2201.97" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="949.12" ytl="877.93" xbr="1921.19" ybr="3539.32" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="imagesTakenC(120).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1568.56,984.38;1568.56,984.38;1415.53,1230.56;1302.42,1516.66;1329.03,1882.60;1329.03,2022.33;1741.55,2048.94" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1255.18" ytl="711.59" xbr="1854.66" ybr="3492.74" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="imagesTakenC(121).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1235.89,691.63;1235.89,691.63;1448.80,811.39;1661.71,1117.45;1668.36,1643.08;1694.98,1809.41;1162.70,1875.95" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="875.93" ytl="319.04" xbr="1768.16" ybr="3346.37" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="imagesTakenC(122).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1108.80" ytl="625.10" xbr="1821.39" ybr="3619.16" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1568.56,931.16;1568.56,931.16;1262.50,1144.07;1162.70,1436.82;1249.19,1829.38;1249.19,1909.22;1688.32,1969.10" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="imagesTakenC(123).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1241.87" ytl="924.50" xbr="1734.90" ybr="3180.03" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1502.02,1124.11;1502.02,1124.11;1621.79,1330.37;1675.01,1536.62;1621.79,1836.03;1641.75,1902.56;1329.03,1915.87" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="imagesTakenC(124).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1095.50" ytl="658.37" xbr="1701.63" ybr="3359.67" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1462.10,904.54;1462.10,904.54;1282.46,1150.72;1169.35,1450.13;1229.23,1789.45;1215.93,1862.64;1581.87,1942.48" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="imagesTakenC(125).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1108.80" ytl="452.11" xbr="1848.00" ybr="3652.42" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1488.72,738.21;1488.72,738.21;1661.71,1011.00;1768.16,1330.37;1648.40,1782.80;1668.40,1856.00;1262.50,1869.30" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="imagesTakenC(126).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1388.92,818.05;1388.92,818.05;1548.60,1024.31;1641.75,1283.79;1568.60,1596.50;1568.56,1656.38;1255.85,1683.00" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1135.42" ytl="551.91" xbr="1774.82" ybr="3253.22" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="imagesTakenC(127).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1462.10,884.58;1462.10,884.58;1242.54,1064.23;1142.74,1450.13;1255.85,1782.80;1249.19,1836.03;1621.79,1862.64" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1035.62" ytl="585.18" xbr="1848.00" ybr="3619.16" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="imagesTakenC(128).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1078.20" ytl="858.63" xbr="1776.81" ybr="3666.40" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1368.96,1110.80;1368.96,1110.80;1195.97,1337.02;1169.35,1583.20;1275.81,1909.22;1275.81,1962.44;1608.48,1995.71" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="imagesTakenC(129).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1422.18,1170.68;1422.18,1170.68;1555.25,1343.67;1675.01,1629.77;1668.36,1975.75;1668.36,2128.78;1235.89,2135.43" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1181.99" ytl="944.46" xbr="1721.59" ybr="3625.81" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="imagesTakenC(13).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="882.59" ytl="864.62" xbr="1867.97" ybr="3585.89" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1129.43,1144.07;1129.43,1144.07;1462.10,1250.52;1641.75,1490.05;1734.90,1869.30;1781.47,2009.02;1235.89,2182.01" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="imagesTakenC(130).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1055.58" ytl="831.36" xbr="1688.32" ybr="3213.30" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1295.77,1117.45;1295.77,1117.45;1488.72,1243.87;1635.09,1543.28;1561.91,1776.15;1561.91,1816.07;1189.31,1862.64" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="imagesTakenC(131).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1269.15,931.16;1269.15,931.16;1062.90,1190.64;983.05,1470.09;1089.51,1895.91;1089.51,1995.71;1515.33,2048.94" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="935.81" ytl="591.83" xbr="1774.82" ybr="3758.88" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="imagesTakenC(132).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1168.69" ytl="438.80" xbr="1947.81" ybr="3579.24" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1455.45,771.47;1455.45,771.47;1734.90,957.77;1901.23,1303.75;1814.74,1729.57;1814.74,1836.03;1375.61,1889.26" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="imagesTakenC(133).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1362.30,811.39;1362.30,811.39;1502.02,1044.27;1595.17,1396.90;1555.25,1623.12;1568.56,1676.35;1096.16,1702.96" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1022.31" ytl="538.60" xbr="1701.63" ybr="3339.71" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="imagesTakenC(134).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="975.74" ytl="618.44" xbr="1668.36" ybr="3672.39" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1282.46,931.16;1289.11,931.16;1442.14,1144.07;1608.48,1470.09;1521.98,1902.56;1535.29,1949.14;1109.47,2015.67" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="imagesTakenC(135).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1435.49,864.62;1435.49,864.62;1648.40,1030.96;1714.94,1356.98;1615.13,1756.19;1615.13,1802.76;1235.89,1869.30" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1095.50" ytl="545.26" xbr="1781.47" ybr="3552.62" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="imagesTakenC(136).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1208.61" ytl="498.68" xbr="1848.00" ybr="3412.90" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1495.37,798.09;1495.37,798.09;1348.99,1004.35;1275.81,1270.48;1368.96,1663.04;1368.96,1722.92;1748.20,1782.80" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="imagesTakenC(137).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1521.99,718.25;1521.99,718.25;1315.73,877.93;1215.93,1203.95;1329.03,1623.12;1329.03,1709.61;1728.24,1756.19" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1168.69" ytl="405.53" xbr="1861.31" ybr="3379.63" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="imagesTakenC(138).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1028.96" ytl="665.02" xbr="1861.31" ybr="3732.27" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1329.03,957.77;1329.03,957.77;1608.48,1090.84;1794.78,1383.59;1748.20,1969.10;1748.20,2009.02;1382.30,2042.30" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="imagesTakenC(139).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1615.13,957.77;1615.13,957.77;1482.06,1177.34;1355.65,1503.36;1448.80,1816.07;1435.49,1949.14;1774.82,1949.14" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1308.41" ytl="691.63" xbr="1874.62" ybr="3645.77" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="imagesTakenC(14).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1375.61,1024.31;1375.61,1024.31;1195.97,1303.75;1122.78,1569.89;1189.31,1862.64;1189.31,1942.48;1541.90,1969.10" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1075.54" ytl="784.78" xbr="1615.13" ybr="3372.98" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="imagesTakenC(140).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1128.77" ytl="704.94" xbr="1768.16" ybr="3532.66" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1495.37,1030.96;1495.37,1030.96;1262.50,1223.91;1169.35,1529.97;1275.81,1949.14;1275.81,1995.71;1635.09,2055.59" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="imagesTakenC(141).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1329.03,984.38;1335.69,984.38;1548.60,1183.99;1648.40,1450.13;1561.91,1829.38;1568.56,1929.18;1222.58,1969.10" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1108.80" ytl="671.67" xbr="1721.59" ybr="3432.86" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="imagesTakenC(142).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1181.99" ytl="724.90" xbr="1881.27" ybr="3466.13" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1615.13,1037.61;1615.13,1037.61;1348.99,1197.30;1222.58,1490.05;1262.50,1862.64;1269.20,2015.70;1675.01,2022.33" z_order="0">
+    </points>
+  </image>
+  <image id="49" name="imagesTakenC(143).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1108.80" ytl="591.83" xbr="1914.54" ybr="3605.85" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1415.53,884.58;1415.53,884.58;1641.75,1090.84;1788.12,1356.98;1794.78,1742.88;1814.74,1882.60;1388.92,1975.75" z_order="0">
+    </points>
+  </image>
+  <image id="50" name="imagesTakenC(144).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1108.80" ytl="718.25" xbr="1788.12" ybr="3565.93" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1442.14,957.77;1442.14,957.77;1628.44,1250.52;1728.24,1596.50;1714.90,1975.80;1728.24,2148.74;1162.70,2168.70" z_order="0">
+    </points>
+  </image>
+  <image id="51" name="imagesTakenC(15).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1621.79,964.42;1621.79,964.42;1395.57,1177.34;1269.15,1390.25;1322.38,1796.11;1322.38,1869.30;1694.98,1915.87" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1215.26" ytl="678.33" xbr="1848.00" ybr="3333.06" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="imagesTakenC(16).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="969.08" ytl="325.69" xbr="1681.67" ybr="3379.63" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1382.26,671.67;1382.26,671.67;1189.31,824.70;1003.01,1190.64;1116.12,1603.16;1116.12,1736.23;1535.29,1742.88" z_order="0">
+    </points>
+  </image>
+  <image id="53" name="imagesTakenC(17).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1462.10,724.90;1462.10,724.90;1229.23,997.69;1136.08,1350.33;1215.93,1683.00;1215.93,1789.45;1615.13,1816.07" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1102.15" ytl="405.53" xbr="1754.86" ybr="3359.67" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="imagesTakenC(18).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1442.14,738.21;1442.14,738.21;1322.38,904.54;1222.58,1150.72;1342.34,1629.77;1329.03,1702.96;1748.20,1736.23" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1168.69" ytl="452.11" xbr="1821.39" ybr="3259.87" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="imagesTakenC(19).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1388.92,791.43;1388.92,791.43;1295.77,951.12;1189.31,1217.26;1309.07,1696.31;1289.11,1796.11;1681.67,1842.68" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1142.07" ytl="525.30" xbr="1761.51" ybr="3333.06" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="imagesTakenC(2).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1195.30" ytl="565.22" xbr="1834.70" ybr="3439.51" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1508.68,844.66;1508.68,844.66;1362.30,1004.35;1255.85,1277.14;1362.30,1742.88;1329.03,1842.68;1748.20,1855.99" z_order="0">
+    </points>
+  </image>
+  <image id="57" name="imagesTakenC(20).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1528.64,857.97;1528.64,857.97;1348.99,991.04;1229.23,1257.18;1342.34,1709.61;1315.73,1789.45;1701.63,1802.76" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1195.30" ytl="611.79" xbr="1781.47" ybr="3379.63" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="imagesTakenC(21).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1115.46" ytl="485.37" xbr="1801.43" ybr="3612.50" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1349.00,751.51;1349.00,751.51;1588.52,877.93;1748.20,1177.34;1641.75,1729.57;1681.67,1842.68;1262.50,1869.30" z_order="0">
+    </points>
+  </image>
+  <image id="59" name="imagesTakenC(22).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1201.95" ytl="418.84" xbr="1874.62" ybr="3599.20" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1568.56,698.29;1568.56,698.29;1708.28,877.93;1828.04,1177.34;1721.59,1709.61;1741.50,1796.10;1322.38,1816.07" z_order="0">
+    </points>
+  </image>
+  <image id="60" name="imagesTakenC(23).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1422.18,791.43;1422.18,791.43;1535.29,964.42;1675.01,1257.18;1621.79,1802.76;1635.09,1909.22;1169.35,1942.48" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1108.80" ytl="511.99" xbr="1741.55" ybr="3665.73" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="imagesTakenC(24).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1142.07" ytl="618.44" xbr="1774.82" ybr="3758.88" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1475.41,884.58;1475.41,884.58;1588.52,1070.88;1721.59,1403.55;1641.75,1922.52;1641.75,1995.71;1209.27,2035.63" z_order="0">
+    </points>
+  </image>
+  <image id="62" name="imagesTakenC(25).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="995.70" ytl="678.33" xbr="1668.36" ybr="3519.36" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1422.18,937.81;1422.18,937.81;1502.02,1097.49;1601.83,1363.63;1521.98,1869.30;1541.95,1942.48;1162.70,1975.80" z_order="0">
+    </points>
+  </image>
+  <image id="63" name="imagesTakenC(26).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1402.22,924.50;1402.22,924.50;1495.37,1090.84;1588.52,1337.02;1508.68,1869.30;1535.29,1949.14;1136.10,2022.30" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1002.35" ytl="671.67" xbr="1648.40" ybr="3506.05" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="imagesTakenC(27).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1115.46" ytl="285.77" xbr="1994.38" ybr="3652.42" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1535.29,638.40;1535.29,638.40;1841.35,897.89;1947.81,1270.48;1834.70,1736.23;1854.66,1842.68;1349.00,1909.20" z_order="0">
+    </points>
+  </image>
+  <image id="65" name="imagesTakenC(28).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1317.72,712.26;1317.72,712.26;1657.05,871.94;1836.69,1257.84;1796.77,1710.28;1803.43,1836.69;1337.68,1903.23" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1002.35" ytl="359.00" xbr="1947.80" ybr="3645.77" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="imagesTakenC(29).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1621.79,831.36;1621.79,831.36;1309.07,1044.27;1162.70,1403.55;1235.89,1796.11;1215.93,1902.56;1728.24,1975.75" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1062.23" ytl="525.30" xbr="1894.58" ybr="3692.35" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="imagesTakenC(3).jpg" width="1536" height="2048">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="394.52" ytl="354.98" xbr="823.72" ybr="1896.05" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="522.94,466.50;522.94,466.50;651.36,554.37;762.89,672.65;759.51,868.67;773.03,919.36;556.73,976.81" z_order="0">
+    </points>
+  </image>
+  <image id="68" name="imagesTakenC(30).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1062.23" ytl="398.88" xbr="2007.69" ybr="3599.20" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1714.94,744.86;1714.94,744.86;1362.30,897.89;1195.97,1270.48;1242.54,1683.00;1215.93,1816.07;1794.78,1889.26" z_order="0">
+    </points>
+  </image>
+  <image id="69" name="imagesTakenC(31).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1541.95,818.05;1541.95,818.05;1342.34,1070.88;1202.62,1443.47;1322.38,1849.34;1322.40,1942.50;1834.70,1982.40" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1142.07" ytl="505.34" xbr="1987.73" ybr="3758.88" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="imagesTakenC(32).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1608.48,531.95;1608.48,531.95;1375.61,804.74;1249.19,1177.34;1322.38,1596.50;1295.80,1802.80;1841.35,1822.72" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1155.38" ytl="199.28" xbr="2014.34" ybr="3652.42" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="imagesTakenC(33).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1168.69" ytl="272.46" xbr="1961.11" ybr="3639.12" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1668.36,598.48;1668.36,598.48;1375.61,851.32;1222.58,1290.44;1262.50,1689.65;1262.50,1836.00;1801.43,1829.38" z_order="0">
+    </points>
+  </image>
+  <image id="72" name="imagesTakenC(34).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1428.84,778.13;1428.84,778.13;1202.62,1057.57;1122.78,1390.25;1235.89,1875.95;1249.19,2028.98;1774.82,1942.48" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1035.62" ytl="458.76" xbr="1967.77" ybr="3885.30" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="imagesTakenC(35).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="929.16" ytl="352.31" xbr="1801.43" ybr="3692.35" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1415.53,671.67;1415.53,671.67;1588.52,964.42;1714.94,1337.02;1541.95,1729.57;1575.20,1822.70;1116.10,1882.60" z_order="0">
+    </points>
+  </image>
+  <image id="74" name="imagesTakenC(36).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="955.78" ytl="724.90" xbr="1927.85" ybr="3812.11" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1621.79,1044.27;1621.79,1044.27;1322.38,1230.56;1096.16,1543.28;1082.86,2002.37;1082.86,2075.55;1535.29,2135.43" z_order="0">
+    </points>
+  </image>
+  <image id="75" name="imagesTakenC(37).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1275.14" ytl="778.13" xbr="1981.07" ybr="3865.34" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1641.75,1097.49;1641.75,1097.49;1495.37,1350.33;1402.22,1669.69;1468.80,1982.40;1462.10,2068.90;1894.58,2135.43" z_order="0">
+    </points>
+  </image>
+  <image id="76" name="imagesTakenC(38).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1455.45,1070.88;1455.45,1070.88;1615.13,1250.52;1708.28,1549.93;1601.83,1842.68;1615.10,1929.10;1242.50,1935.80" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1088.84" ytl="857.97" xbr="1768.16" ybr="3399.59" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="imagesTakenC(39).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1302.42,1150.72;1302.42,1150.72;1475.41,1350.33;1575.21,1589.85;1468.76,1895.91;1488.70,1975.80;1129.43,1995.71" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="989.04" ytl="931.16" xbr="1635.09" ybr="3459.47" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="imagesTakenC(4).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1402.22,724.90;1402.22,724.90;1635.09,1044.27;1721.59,1416.86;1608.48,1816.07;1608.48,1895.91;1069.55,1969.10" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="909.20" ytl="392.23" xbr="1768.16" ybr="3712.31" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="imagesTakenC(40).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1248.53" ytl="738.21" xbr="1867.97" ybr="3153.41" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1561.91,991.04;1561.91,991.04;1402.22,1144.07;1295.77,1430.17;1428.84,1702.96;1428.84,1756.19;1794.78,1789.45" z_order="0">
+    </points>
+  </image>
+  <image id="80" name="imagesTakenC(41).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1075.54" ytl="492.03" xbr="1741.55" ybr="3732.27" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1468.76,831.36;1468.76,831.36;1548.60,1017.65;1688.32,1363.63;1661.71,1796.11;1675.01,1962.44;1162.70,1995.70" z_order="0">
+    </points>
+  </image>
+  <image id="81" name="imagesTakenC(42).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1155.38" ytl="671.67" xbr="1814.74" ybr="3652.42" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1435.49,924.50;1435.49,924.50;1635.09,1217.26;1734.90,1536.60;1655.10,1875.90;1661.70,1982.40;1222.58,2055.59" z_order="0">
+    </points>
+  </image>
+  <image id="82" name="imagesTakenC(43).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1162.03" ytl="831.36" xbr="1828.04" ybr="3858.68" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1442.14,1090.84;1442.14,1090.84;1615.13,1363.63;1728.24,1656.38;1648.40,2028.98;1675.01,2115.47;1222.58,2235.24" z_order="0">
+    </points>
+  </image>
+  <image id="83" name="imagesTakenC(44).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1555.25,884.58;1555.25,884.58;1189.31,1117.45;1049.59,1496.70;1102.82,1909.22;1082.86,2028.98;1748.20,2075.55" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="995.70" ytl="558.56" xbr="1854.66" ybr="3705.65" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="imagesTakenC(45).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1408.88,977.73;1408.88,977.73;1648.40,1257.18;1741.55,1576.54;1741.55,1989.06;1754.86,2082.21;1209.27,2155.39" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1042.27" ytl="698.29" xbr="1821.39" ybr="3692.35" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="imagesTakenC(46).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1175.34" ytl="884.58" xbr="1927.85" ybr="3625.81" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1475.41,1150.72;1475.41,1150.72;1342.34,1323.71;1289.11,1629.77;1322.38,1989.06;1309.07,2082.21;1694.98,2108.82" z_order="0">
+    </points>
+  </image>
+  <image id="86" name="imagesTakenC(47).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="935.81" ytl="917.85" xbr="1688.32" ybr="3466.13" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1215.93,1170.68;1215.93,1170.68;1448.80,1337.02;1561.91,1569.89;1575.21,1955.79;1601.83,2035.63;1235.89,2075.55" z_order="0">
+    </points>
+  </image>
+  <image id="87" name="imagesTakenC(48).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1221.91" ytl="638.40" xbr="1828.04" ybr="3486.09" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1462.10,911.20;1462.10,911.20;1382.26,1057.57;1269.15,1317.06;1368.96,1776.15;1329.03,1902.56;1734.90,1949.14" z_order="0">
+    </points>
+  </image>
+  <image id="88" name="imagesTakenC(49).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1115.46" ytl="385.57" xbr="1967.77" ybr="3798.80" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1588.52,691.63;1588.52,691.63;1828.04,1030.96;1921.19,1416.86;1841.35,1816.07;1841.35,1922.52;1329.03,1975.75" z_order="0">
+    </points>
+  </image>
+  <image id="89" name="imagesTakenC(5).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1641.75,844.66;1641.75,844.66;1448.80,1064.23;1329.03,1416.86;1375.61,1869.30;1362.30,1915.87;1821.39,1975.75" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1275.14" ytl="511.99" xbr="1907.89" ybr="3672.39" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="imagesTakenC(50).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1155.38" ytl="458.76" xbr="1974.42" ybr="3685.69" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1601.83,771.47;1601.83,771.47;1355.65,1044.27;1222.58,1423.51;1322.38,1789.45;1302.42,1869.30;1814.74,1955.79" z_order="0">
+    </points>
+  </image>
+  <image id="91" name="imagesTakenC(51).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="975.74" ytl="299.08" xbr="1781.47" ybr="3153.41" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1408.88,611.79;1408.88,611.79;1628.44,877.93;1694.98,1203.95;1615.13,1536.62;1615.13,1643.08;1182.66,1669.69" z_order="0">
+    </points>
+  </image>
+  <image id="92" name="imagesTakenC(52).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1615.13,684.98;1615.13,684.98;1854.66,857.97;1987.73,1203.95;1941.15,1543.28;1941.15,1683.00;1508.68,1696.31" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1315.06" ytl="378.92" xbr="2040.96" ybr="3213.30" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="imagesTakenC(53).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1322.38,658.37;1322.38,658.37;1588.52,838.01;1734.90,1157.38;1714.90,1543.30;1721.60,1676.30;1269.20,1696.30" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1048.92" ytl="352.31" xbr="1801.43" ybr="3226.60" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="imagesTakenC(54).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="969.08" ytl="638.40" xbr="1648.40" ybr="3758.88" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1368.96,951.12;1368.96,951.12;1129.43,1210.60;1029.63,1496.70;1109.47,1935.83;1109.47,2055.59;1575.21,2082.21" z_order="0">
+    </points>
+  </image>
+  <image id="95" name="imagesTakenC(55).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1468.76,917.85;1468.76,917.85;1621.79,1164.03;1708.28,1463.43;1655.05,1802.76;1661.71,1955.79;1235.89,1989.06" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1148.73" ytl="631.75" xbr="1808.08" ybr="3679.04" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="imagesTakenC(56).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1541.95,1097.49;1541.95,1097.49;1395.57,1330.37;1309.07,1656.38;1349.00,2048.90;1355.60,2128.80;1828.04,2108.82" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1235.22" ytl="791.43" xbr="1961.11" ybr="3885.30" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="imagesTakenC(57).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1275.14" ytl="771.47" xbr="1974.42" ybr="3878.64" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1615.13,1070.88;1615.13,1070.88;1422.18,1310.40;1322.38,1623.12;1388.92,2035.63;1375.61,2095.51;1867.97,2122.13" z_order="0">
+    </points>
+  </image>
+  <image id="98" name="imagesTakenC(58).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1448.80,977.73;1448.80,977.73;1661.71,1150.72;1741.55,1443.47;1641.75,1742.88;1648.40,1822.70;1295.80,1822.70" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1128.77" ytl="731.55" xbr="1808.08" ybr="3279.83" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="imagesTakenC(59).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1402.22,1150.72;1402.22,1150.72;1242.54,1310.40;1156.04,1596.50;1269.15,1869.30;1262.50,1929.20;1608.48,1949.14" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1088.84" ytl="931.16" xbr="1708.28" ybr="3359.67" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="imagesTakenC(6).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1142.07" ytl="744.86" xbr="1894.58" ybr="3732.27" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1488.72,1044.27;1488.72,1044.27;1714.94,1310.40;1841.35,1603.16;1774.80,2075.60;1781.50,2162.00;1368.96,2162.05" z_order="0">
+    </points>
+  </image>
+  <image id="101" name="imagesTakenC(60).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1054.88" ytl="855.97" xbr="1667.74" ybr="3296.67" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1395.57,1110.80;1395.57,1110.80;1195.97,1237.22;1096.16,1510.01;1202.62,1816.07;1202.62,1869.30;1555.25,1895.91" z_order="0">
+    </points>
+  </image>
+  <image id="102" name="imagesTakenC(61).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1435.49,678.33;1435.49,678.33;1568.56,897.89;1774.82,1310.40;1728.24,1975.75;1728.24,2082.21;1176.00,2102.17" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1017.25" ytl="215.15" xbr="1834.40" ybr="3929.96" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="imagesTakenC(62).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1515.33,877.93;1515.33,877.93;1215.93,1097.49;1116.12,1450.13;1162.70,1789.45;1162.70,1869.30;1601.83,1922.52" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1060.25" ytl="575.34" xbr="1791.39" ybr="3564.40" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="imagesTakenC(63).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1484.96,666.73;1484.96,666.73;1237.66,1043.05;1130.14,1414.00;1194.65,1865.58;1194.65,1924.72;1834.40,1983.85" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1081.76" ytl="360.30" xbr="1963.42" ybr="3612.78" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="imagesTakenC(64).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1447.33,1048.43;1447.33,1048.43;1280.67,1311.85;1232.29,1580.65;1312.90,1903.20;1312.90,1978.50;1694.62,1989.23" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1146.27" ytl="779.63" xbr="1769.89" ybr="3424.62" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="imagesTakenC(65).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1716.13,1172.08;1716.13,1172.08;1441.95,1301.10;1253.79,1532.27;1226.91,1951.60;1194.65,2016.11;1581.73,2112.88" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1044.13" ytl="908.65" xbr="1974.17" ybr="3585.90" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="imagesTakenC(66).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1210.78" ytl="645.23" xbr="1780.64" ybr="3354.73" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1484.96,914.03;1484.96,914.03;1630.11,1129.07;1705.37,1376.36;1646.24,1709.68;1667.70,1822.60;1286.05,1827.95" z_order="0">
+    </points>
+  </image>
+  <image id="108" name="imagesTakenC(67).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1183.90" ytl="666.73" xbr="1748.38" ybr="3349.36" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1425.82,897.90;1425.82,897.90;1560.22,1086.06;1683.87,1322.60;1603.23,1672.04;1624.70,1784.90;1275.29,1833.32" z_order="0">
+    </points>
+  </image>
+  <image id="109" name="imagesTakenC(68).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1323.68,989.29;1323.68,989.29;1511.84,1301.10;1587.10,1575.28;1549.47,1903.21;1565.60,2010.73;1157.02,2080.62" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1060.25" ytl="704.36" xbr="1678.49" ybr="3612.78" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="imagesTakenC(69).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1232.29" ytl="860.27" xbr="1877.41" ybr="3360.11" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1474.21,1118.32;1474.21,1118.32;1667.74,1225.84;1834.40,1505.39;1791.39,1892.46;1802.14,1962.35;1468.80,1994.60" z_order="0">
+    </points>
+  </image>
+  <image id="111" name="imagesTakenC(7).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1484.96,1048.43;1484.96,1048.43;1286.00,1166.70;1135.52,1457.00;1210.78,1747.31;1210.78,1801.07;1565.60,1838.70" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1065.63" ytl="795.76" xbr="1700.00" ybr="3236.46" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="imagesTakenC(70).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1372.06,602.22;1372.06,602.22;1597.85,940.91;1683.87,1311.85;1549.47,1693.55;1549.50,1774.20;1060.25,1795.69" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="866.72" ytl="295.79" xbr="1705.37" ybr="3526.76" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="imagesTakenC(71).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1549.47,252.78;1549.47,252.78;1280.67,569.96;1140.89,1021.55;1226.91,1483.88;1226.90,1650.50;1791.39,1661.29" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1087.13" ytl="0.00" xbr="1990.30" ybr="3413.87" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="imagesTakenC(72).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1103.26" ytl="526.96" xbr="2006.43" ybr="3827.82" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1452.70,822.64;1452.70,822.64;1253.79,1069.93;1162.40,1440.88;1275.29,1865.58;1286.05,2026.86;1796.77,1999.98" z_order="0">
+    </points>
+  </image>
+  <image id="115" name="imagesTakenC(73).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1329.05,1145.20;1329.05,1145.20;1581.73,1284.97;1726.88,1548.40;1678.49,1887.08;1678.49,2010.73;1329.05,2042.99" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1054.88" ytl="849.52" xbr="1796.77" ybr="3510.64" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="imagesTakenC(74).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1522.59,1064.56;1522.59,1064.56;1640.86,1284.97;1726.88,1559.15;1640.86,1908.59;1651.61,2005.36;1312.93,2053.74" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1216.16" ytl="774.25" xbr="1786.01" ybr="3499.88" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="imagesTakenC(75).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1619.36,978.54;1619.36,978.54;1807.52,1252.72;1893.53,1591.40;1834.40,2059.12;1834.40,2129.00;1420.45,2139.76" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1205.41" ytl="661.36" xbr="1947.29" ybr="3682.67" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="imagesTakenC(76).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1124.77" ytl="602.22" xbr="1759.13" ybr="3166.57" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1388.19,854.89;1388.19,854.89;1608.61,1037.68;1694.62,1279.60;1597.85,1634.41;1608.61,1709.68;1264.54,1752.68" z_order="0">
+    </points>
+  </image>
+  <image id="119" name="imagesTakenC(77).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1425.82,849.52;1425.82,849.52;1194.65,1150.57;1124.77,1435.50;1243.04,1822.57;1253.80,1908.60;1700.00,1973.10" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1076.38" ytl="559.21" xbr="1775.26" ybr="3596.65" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="imagesTakenC(78).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="931.23" ytl="774.25" xbr="1898.91" ybr="3532.14" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1189.28,1048.43;1189.28,1048.43;1538.72,1193.58;1700.00,1419.37;1791.39,1844.08;1823.65,1994.60;1307.55,2107.50" z_order="0">
+    </points>
+  </image>
+  <image id="121" name="imagesTakenC(79).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1398.94,854.89;1398.94,854.89;1630.11,1037.68;1834.40,1327.98;1829.02,1672.04;1855.90,1758.06;1506.46,1887.08" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1124.77" ytl="596.84" xbr="1979.55" ybr="3204.20" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="imagesTakenC(8).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="882.85" ytl="537.71" xbr="1683.87" ybr="3714.92" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1210.78,903.28;1210.78,903.28;1103.26,1091.44;931.23,1500.01;1011.87,1908.59;1006.50,2069.90;1501.10,2069.90" z_order="0">
+    </points>
+  </image>
+  <image id="123" name="imagesTakenC(80).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1737.63,1241.96;1737.63,1241.96;1425.82,1349.48;1232.29,1639.79;1232.29,1999.98;1189.28,2086.00;1576.35,2188.14" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1065.63" ytl="967.79" xbr="1941.92" ybr="3639.66" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="imagesTakenC(81).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1382.81,887.15;1382.81,887.15;1656.99,1043.05;1780.60,1360.20;1624.73,1881.71;1640.86,1940.84;1243.04,1951.60" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1114.01" ytl="591.47" xbr="1823.65" ybr="3741.80" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="imagesTakenC(82).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1501.09,801.13;1501.09,801.13;1302.17,1005.42;1221.53,1408.62;1323.70,1709.70;1318.30,1795.70;1705.40,1806.40" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1081.76" ytl="473.20" xbr="1925.79" ybr="3553.64" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="imagesTakenC(83).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1382.81,973.16;1382.81,973.16;1560.22,1182.83;1656.99,1446.25;1597.85,1741.93;1597.90,1822.60;1178.53,1844.08" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1114.01" ytl="704.36" xbr="1769.89" ybr="3408.49" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="imagesTakenC(84).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1570.97,1059.18;1570.97,1059.18;1382.81,1274.22;1296.80,1564.52;1366.69,1844.08;1355.93,1919.34;1791.39,1930.09" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1221.53" ytl="779.63" xbr="1947.29" ybr="3542.89" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="imagesTakenC(85).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1124.77" ytl="650.60" xbr="1855.90" ybr="3553.64" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1468.83,935.53;1468.83,935.53;1280.67,1177.45;1216.16,1478.51;1296.80,1801.10;1291.40,1887.10;1748.40,1887.10" z_order="0">
+    </points>
+  </image>
+  <image id="129" name="imagesTakenC(86).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1554.85,1102.19;1554.85,1102.19;1683.87,1284.97;1812.89,1591.40;1748.38,1924.72;1759.13,2005.36;1366.70,2048.40" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1167.77" ytl="817.26" xbr="1855.90" ybr="3671.92" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="imagesTakenC(87).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1087.13" ytl="682.86" xbr="1845.15" ybr="3677.29" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1388.19,989.29;1388.19,989.29;1619.36,1086.06;1791.39,1387.12;1759.13,1897.84;1780.60,1978.50;1345.18,2037.61" z_order="0">
+    </points>
+  </image>
+  <image id="131" name="imagesTakenC(88).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1522.59,768.88;1522.59,768.88;1345.18,946.28;1248.41,1284.97;1350.56,1682.80;1318.30,1790.32;1743.01,1833.32" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1200.03" ytl="473.20" xbr="1839.77" ybr="3440.75" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="imagesTakenC(89).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1592.48,725.87;1592.48,725.87;1355.93,871.02;1253.79,1220.46;1355.93,1623.66;1318.30,1741.93;1748.38,1790.32" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1221.53" ytl="430.19" xbr="1898.91" ybr="3386.99" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="imagesTakenC(9).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="888.22" ytl="704.36" xbr="1597.85" ybr="3811.69" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1076.38,1069.93;1076.38,1069.93;1028.00,1236.59;931.23,1591.40;974.24,2021.48;990.37,2220.40;1474.21,2145.13" z_order="0">
+    </points>
+  </image>
+  <image id="134" name="imagesTakenC(90).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1167.78" ytl="553.84" xbr="1855.90" ybr="3542.89" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1393.57,838.76;1393.57,838.76;1259.17,1069.93;1210.78,1392.49;1323.68,1763.44;1296.80,1887.08;1716.13,1913.96" z_order="0">
+    </points>
+  </image>
+  <image id="135" name="imagesTakenC(91).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1221.53" ytl="403.31" xbr="2006.43" ybr="3392.36" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1431.20,698.99;1431.20,698.99;1361.31,908.65;1259.17,1204.33;1382.81,1645.16;1382.81,1763.44;1737.63,1758.06" z_order="0">
+    </points>
+  </image>
+  <image id="136" name="imagesTakenC(92).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1296.80" ytl="478.57" xbr="2049.44" ybr="3645.04" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1624.73,801.13;1624.73,801.13;1468.83,1021.55;1372.06,1322.60;1479.58,1752.68;1474.21,1822.57;1941.92,1849.45" z_order="0">
+    </points>
+  </image>
+  <image id="137" name="imagesTakenC(93).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1216.16" ytl="736.62" xbr="1775.26" ybr="3559.02" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1544.09,1032.30;1544.09,1032.30;1366.69,1252.72;1275.29,1505.39;1361.31,1924.72;1361.31,1999.98;1705.37,2075.24" z_order="0">
+    </points>
+  </image>
+  <image id="138" name="imagesTakenC(94).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1323.68" ytl="645.23" xbr="1829.02" ybr="3085.93" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1587.10,908.65;1587.10,908.65;1452.70,1112.94;1393.57,1349.48;1452.70,1645.16;1447.33,1747.31;1748.38,1806.44" z_order="0">
+    </points>
+  </image>
+  <image id="139" name="imagesTakenC(95).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1071.00" ytl="639.85" xbr="1791.39" ybr="3677.29" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1431.20,940.91;1431.20,940.91;1630.11,1166.70;1705.37,1489.26;1640.90,1860.20;1651.60,1957.00;1194.70,1973.10" z_order="0">
+    </points>
+  </image>
+  <image id="140" name="imagesTakenC(96).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1463.46,742.00;1463.46,742.00;1683.87,978.54;1791.39,1258.09;1748.38,1704.30;1726.88,1806.44;1275.29,1833.32" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1162.40" ytl="430.19" xbr="1829.02" ybr="3505.26" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="imagesTakenC(97).jpg" width="3024" height="4032">
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1044.13" ytl="709.74" xbr="1743.01" ybr="3671.92" z_order="0">
+    </box>
+    <points label="body-keypoints" source="manual" occluded="0" points="1479.58,994.67;1479.58,994.67;1597.85,1252.72;1646.24,1521.52;1587.10,1924.72;1597.85,1994.60;1167.77,2042.99" z_order="0">
+    </points>
+  </image>
+  <image id="142" name="imagesTakenC(98).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1484.96,1037.68;1484.96,1037.68;1753.76,1231.21;1931.17,1553.77;1898.91,2021.48;1898.90,2155.90;1468.83,2193.52" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="1200.03" ytl="725.87" xbr="1979.55" ybr="3698.80" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="imagesTakenC(99).jpg" width="3024" height="4032">
+    <points label="body-keypoints" source="manual" occluded="0" points="1307.55,1392.49;1307.55,1392.49;1490.33,1607.53;1608.61,1924.72;1549.47,2413.93;1554.85,2473.07;1151.60,2499.90" z_order="0">
+    </points>
+    <box label="body-keypoints" source="manual" occluded="0" xtl="968.86" ytl="1102.19" xbr="1640.86" ybr="4032.00" z_order="0">
+    </box>
+  </image>
+</annotations>
